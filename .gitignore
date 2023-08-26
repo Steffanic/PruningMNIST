@@ -1,2 +1,2 @@
-./pruning_env/
-.vscode/
+./pruning_env/*
+.vscode/*
